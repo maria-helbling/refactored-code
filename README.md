@@ -33,7 +33,7 @@ The SEO and accessibility changes did not affect the visual of the site but opti
 - edited heading tags to follow logically in the document
 
 ## Screenshots
-[screenshot 1](/images/screenshot-1.png)
-[screenshot 2](/images/screenshot-2.png)
-[screenshot 3](/images/screenshot-3.png)
+![screenshot 1](/images/screenshot-1.png)
+![screenshot 2](/images/screenshot-2.png)
+![screenshot 3](/images/Screenshot-3.png)
 
