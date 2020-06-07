@@ -1,4 +1,6 @@
 # refactored-code
+[The site can be fount here](https://maria-helbling.github.io/refactored-code/)
+
 ## User Story
 
 ```
@@ -22,3 +24,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Work done
+The SEO and accessibility changes did not affect the visual of the site but optimised the code in the following areas:
+- fixed broken links
+- replaced generic HTML tags with semantic ones
+- reduced the use of id selectors for repetitive styling in favour of class selectors
+- added alt text to images
+- edited heading tags to follow logically in the document
+
